@@ -9,7 +9,7 @@
 
 Engineering interfaces. Designing experiences. Building ideas.
 
-[Portfolio](YOUR_PORTFOLIO_URL)  • [X](YOUR_X_URL)
+[Portfolio](YOUR_PORTFOLIO_URL)  • [X](https://x.com/yashhvatsraj)
 
 </div>
 
@@ -94,6 +94,7 @@ and conversations around technology and design.
 
 [GitHub](https://github.com/yashhvats)
 [Instagram](https://www.instagram.com/__yaashh_vats?dlrf=MWJlZG9jdDR5NmVxbw==)
+[X](https://x.com/yashhvatsraj)
 
 </div>
 
