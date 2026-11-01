@@ -9,7 +9,7 @@
 
 Engineering interfaces. Designing experiences. Building ideas.
 
-[Portfolio](YOUR_PORTFOLIO_URL) • [LinkedIn](YOUR_LINKEDIN_URL) • [X](YOUR_X_URL)
+[Portfolio](YOUR_PORTFOLIO_URL)  • [X](YOUR_X_URL)
 
 </div>
 
