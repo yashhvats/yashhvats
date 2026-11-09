@@ -46,30 +46,6 @@ design and open-source development.
 - Three.js
 - Locomotive Scroll
 
-## 🚀 Featured Projects
-
-### Rejouice-co
-A creative frontend recreation focused on visual storytelling,
-responsive layouts and interactive experiences.
-
-[Repository](YOUR_REJOUICE_REPO) • [Live Demo](YOUR_DEMO)
-
-### zelt-co
-A modern website recreation emphasizing layout, typography
-and frontend implementation.
-
-[Repository](YOUR_ZELT_REPO) • [Live Demo](YOUR_DEMO)
-
-### Two_Good_
-An interactive frontend project exploring creative
-web design and motion.
-
-[Repository](YOUR_TWO_GOOD_REPO) • [Live Demo](YOUR_DEMO)
-
-### Santan-dharma-
-A web project exploring content presentation and interface design.
-
-[Repository](YOUR_SANTAN_REPO) • [Live Demo](YOUR_DEMO)
 
 ## 💼 What I Build
 
